@@ -1,4 +1,5 @@
 ## intent:affirm
+
 - indeed
 - correct
 - that sounds good
@@ -16,6 +17,7 @@
 - yes...
 
 ## intent:ask_transfer_charge
+
 - Will I be charged for transferring money
 - do transfers cost something?
 - is there a transfer charge?
@@ -27,6 +29,7 @@
 - how much is the transfer fee
 
 ## intent:check_balance
+
 - How much money is on my account?
 - what's my balance?
 - what's my current balance?
@@ -76,6 +79,7 @@
 - Yeah, I know 😀 Since it's so nice: How much money do I have?
 
 ## intent:check_earnings
+
 - How much money went into my account last month?
 - How much money did I make last year?
 - What did I earn last month?
@@ -91,6 +95,7 @@
 - How much have i earned?
 
 ## intent:deny
+
 - not really
 - no
 - I don't think so
@@ -103,6 +108,7 @@
 - nevermind
 
 ## intent:goodbye
+
 - see you later
 - goodbye
 - i'm done
@@ -115,6 +121,7 @@
 - Thanks a lot. See ya later
 
 ## intent:greet
+
 - good morning
 - hi
 - hey there
@@ -137,6 +144,7 @@
 - hello its ella
 
 ## intent:inform
+
 - $10
 - 5000
 - 500
@@ -217,6 +225,7 @@
 - My [visa](credit_card)
 
 ## intent:pay_cc
+
 - I would like to pay the [minimum balance](payment_amount) on my [embelm](credit_card) card
 - I want to pay my [credit card](account_type)
 - I want to pay my card
@@ -242,7 +251,7 @@
 - I want to pay $500 on my [emblem](credit_card) [credit card](account_type) on Sunday
 - I want to pay my [current balance](payment_amount) on my [emblem](credit_card) [credit card](account_type) today
 - i need to pay off my [emblm](credit_card) [credit card](account_type)
-- Please schedule  a payment towards my credit card for April 12th
+- Please schedule a payment towards my credit card for April 12th
 - Can I schedule a payment towards my credit card for tomorrow?
 - Pay off my [minimum balance](payment_amount) please
 - i would like to pay $1200 to my [credit card]{"entity": "account_type", "value": "credit"}
@@ -252,6 +261,7 @@
 - Let's pay that [credit card]{"entity": "account_type", "value": "credit"} bill
 
 ## intent:search_transactions
+
 - how much did I spend at [Target](vendor_name) this week?
 - what is my typical spending at [Amazon](vendor_name)?
 - I want to check my spending history
@@ -277,6 +287,7 @@
 - what places have I spent money?
 
 ## intent:thankyou
+
 - thank you goodbye
 - okay thank you goodbye
 - thank you bye
@@ -290,6 +301,7 @@
 - Thanks!
 
 ## intent:transfer_money
+
 - I want to pay John
 - I want to transfer $100 to Bob
 - can i transfer money to Sally
@@ -328,6 +340,7 @@
 - I need to transfer money to my grandma Judith.
 
 ## intent:check_recipients
+
 - Who can I send money to?
 - Who are my known recipients
 - Show me my list of recipients
@@ -343,6 +356,7 @@
 - Can we please start over?
 
 ## intent:help
+
 - help
 - what can you do?
 - what can I ask you?
@@ -355,6 +369,7 @@
 - What are the things that you can do?
 
 ## intent:human_handoff
+
 - I want a human
 - can I speak to an agent
 - real agent please
@@ -365,13 +380,14 @@
 - transfer to a human
 - Please give me to a human
 
-
 ## synonym:credit
+
 - credit card
 - credit cards
 - credit account
 - credit accounts
 
 ## synonym:emblem
+
 - emblm
 - embelm
